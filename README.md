@@ -9,10 +9,10 @@ Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em D
 Professor: [Marco André Mendes](github.com/marcoandre)
 
 Equipe:
-- [Henrique Dias Belboni Silva](github.com/Henrique0330)
-- [Marco Antônio Peruzzo](github.com/MarcoPeruzzocmd)
-- [João Vitor Guiotti](github.com/joaovnpt)
-- [Eduardo Gustavo Bomsenhor](github.com/goodsir6)
+- [Henrique Dias Belboni Silva](https://github.com/Henrique0330)
+- [Marco Antônio Peruzzo](https://github.com/MarcoPeruzzocmd)
+- [João Vitor Guiotti](https://github.com/joaovnpt)
+- [Eduardo Gustavo Bomsenhor](https://github.com/goodsir6)
 
 Links do projeto:
 (*Coloque aqui os links para a documentação do projeto e os repositórios e plubicação do backend e frontend.*)
