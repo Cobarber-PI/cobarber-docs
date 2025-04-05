@@ -15,7 +15,7 @@ Equipe:
 - [Eduardo Gustavo Bomsenhor](https://github.com/goodsir6)
 
 Links do projeto:
--   [Documentação (esse documento)](https://github.com/Cobarber-PI/cobarber-docs)
+-   Documentação: [esse documento](https://github.com/Cobarber-PI/cobarber-docs)
 -   Backend: [Repositório](https://github.com/Cobarber-PI/cobarber-backend) e [Publicação] ainda não disponível
 -   Frontend: [Repositório](https://github.com/Cobarber-PI/cobarber-frontend) e [Publicação] ainda não disponível
 
@@ -23,7 +23,7 @@ Links do projeto:
 
 **1.1.3 Ordem de Serviço (O.S.)**
 
-O sistema de agendamento de horários para barbeiros permitirá que trabalhadores e donos do estabelecimento tenham suas agendas preenchidas automaticamente, com base nos hoários e serviços disponíveis predefinidos pelo mesmo. Além de gerar relatórios diários/mensais para consulta ao faturamento da empresa. Por outo lado, o cliente poderá agendar seu horário, após se cadastrar informando seu email e telefone, sem se preocupar em ter que receber algum retorno (como o barbeiro precisar atender sua ligação), e receber notificações para o compromisso. O agendamento será enviado automaticamente para o sistema do prestador de serviço, registrando-se na agenda com dia, horário, serviço e preferências do cliente. Após finalizar o dia, o sistema reinicia automaticamente os horários, deixando-os disponíveis para novos agendamentos.
+O sistema de agendamento de horários para barbeiros permitirá que trabalhadores e donos do estabelecimento tenham suas agendas preenchidas automaticamente, com base nos horários e serviços disponíveis predefinidos pelo mesmo. Além de gerar relatórios diários/mensais para consulta ao faturamento da empresa. Por outo lado, o cliente poderá agendar seu horário, após se cadastrar informando seu email e telefone, sem se preocupar em ter que receber algum retorno (como o barbeiro precisar atender sua ligação), e receber notificações para o compromisso. O agendamento será enviado automaticamente para o sistema do prestador de serviço, registrando-se na agenda com dia, horário, serviço e preferências do cliente. Após finalizar o dia, o sistema reinicia automaticamente os horários, deixando-os disponíveis para novos agendamentos.
 
 # 2. Situação Problema
 
@@ -35,7 +35,7 @@ A Berto e Reis é uma barbearia de pequeno porte fundada em 2020 pelo barbeiro J
 
 # 3. Descrição da proposta
 
-O Cobarber é um sistema focado na agilidade de comunicação de cliente para profissional, utilizando-se de horários e serviços predefinidos pelos barbeiros, com foco em liberdade e independência de ambos os lados. Os trabalhadores do local (que também administrarão o sistema da sua barbearia) serão cadastrados e definirão serviços e horários disponíveis em cada dia da semana, fazendo assim com que os clientes que se cadastrarem possam escolher determinado tipo de serviço, horário e o barbeiro de sua preferência.
+O Cobarber é um sistema focado na agilidade de comunicação de cliente para profissional, utilizando-se de horários e serviços predefinidos pelos barbeiros, com foco em liberdade e independência de ambos os lados. Os trabalhadores do local (que também administrarão o sistema da sua barbearia) serão cadastrados e definirão serviços e horários disponíveis em cada dia da semana, fazendo assim com que os clientes que se cadastrarem possam escolher determinado tipo de serviço, horário e o barbeiro de sua preferência, além de receber notificações automáticas para o seu compromisso.
 
 # 4. Modelagem de Dados
 
