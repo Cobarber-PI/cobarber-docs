@@ -37,7 +37,7 @@ A Berto e Reis é uma barbearia de pequeno porte fundada em 2020 pelo barbeiro J
 
 O Cobarber é um sistema focado na agilidade de comunicação de cliente para profissional, utilizando-se de horários e serviços predefinidos pelos barbeiros, com foco em liberdade e independência de ambos os lados. Os trabalhadores do local (que também administrarão o sistema da sua barbearia) serão cadastrados e definirão serviços e horários disponíveis em cada dia da semana, fazendo assim com que os clientes que se cadastrarem possam escolher determinado tipo de serviço, horário e o barbeiro de sua preferência, além de receber notificações automáticas para o seu compromisso.
 
-# 4. Modelagem de Dados
+<!-- # 4. Modelagem de Dados
 
 (*Nessa parte a equipe deve descrever a modelagem de dados que será implementada no sistema. O texto abaixo descreve o que essa etapa deve conter e pode ser apagado depois.*)
 
