@@ -1,6 +1,7 @@
 # Cobarber
 
 Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em Desenvolvimento de Sistemas para a Internet Integrado ao Ensino Médio do IFC - Campus Araquari.
+
 *O sistema Cobarber é uma plataforma web/mobile que intermediará a comunicação de barbeiros/cabelereiros com seus clientes, com o objetivo de oferecer uma solução prática, moderna e eficiente para o agendamento de serviços. Através de uma interface amigável e intuitiva, os barbeiros poderão cadastrar seus horários disponíveis, gerenciar sua agenda, cadastrar serviços oferecidos (como corte, barba, sobrancelha, entre outros), além de acompanhar estatísticas de atendimentos. Por outro lado, os clientes poderão visualizar horários disponíveis, realizar agendamentos e receber notificações automáticas para o seu compromisso.*
 
 ## IMPORTANTE: link do projeto: (https://github.com/Cobarber-PI)
