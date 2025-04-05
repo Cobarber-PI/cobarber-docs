@@ -22,52 +22,25 @@ Links do projeto:
 
 **1.1.3 Ordem de Serviço (O.S.)**
 
-O sistema de agendamento de horários para barbeiros permitirá que trabalhadores e donos do estabelecimento tenham suas agendas preenchidas automaticamente, com base nos hoários e serviços disponíveis predefinidos pelo trabalhador. Além de gerar relatórios diários/mensais para consulta ao faturamento da empresa. Por outo lado, o cliente poderá agendar seu horário, após se cadastrar informando seu nome e telefone, sem se preocupar em ter que receber algum retorno (como o barbeiro precisar atender sua ligação), e receber notificações para o compromisso. O agendamento será enviado automaticamente para o sistema do prestador de serviço, registrando-se na agenda com dia, horário, serviço e preferências do cliente. Após finalizar o dia, o sistema reinicia automaticamente os horários, deixando-os disponíveis para novos agendamentos.
+O sistema de agendamento de horários para barbeiros permitirá que trabalhadores e donos do estabelecimento tenham suas agendas preenchidas automaticamente, com base nos hoários e serviços disponíveis predefinidos pelo mesmo. Além de gerar relatórios diários/mensais para consulta ao faturamento da empresa. Por outo lado, o cliente poderá agendar seu horário, após se cadastrar informando seu email e telefone, sem se preocupar em ter que receber algum retorno (como o barbeiro precisar atender sua ligação), e receber notificações para o compromisso. O agendamento será enviado automaticamente para o sistema do prestador de serviço, registrando-se na agenda com dia, horário, serviço e preferências do cliente. Após finalizar o dia, o sistema reinicia automaticamente os horários, deixando-os disponíveis para novos agendamentos.
 
 # 2. Situação Problema
 
-*(Nessa parte a equipe deve descrever a situação problema que será resolvida pelo sistema. O texto abaixo descreve o que essa etapa deve conter e pode ser apagado depois.)*
-
 ![Ciclo da Venda](docs/ciclo_da_venda.webp "Ciclo da Venda")
 
-Descrevem o que acontece atualmente na empresa em um contexto global,
-abordando o funcionamento da empresa como um todo, não apenas os “problemas” que lá ocorrem.
-
-Sabendo disso, seu papel é **detalhar o funcionamento da empresa escolhida na
-atualidade, ou seja, antes de seu novo software**, usando como base a situação que passamos, mas aprofundando os detalhes de como as coisas acontecem.
-
--   Pesquise sobre empresas do ramo escolhido
-    para entender como funcionam;
--   Aproveite seus conhecimentos previamente adquiridos na área da empresa que escolheu, se houver;
--   Simule uma situação real. Lembre-se que são propostas com empresas fictícias, sendo assim, você terá que tomar certas decisões sobre como a empresa funciona em relação às coisas que não estão definidas no documento base (por exemplo, no caso da padaria, dizemos que seu Genival contratou mais funcionários, mas saber quantos e o que fazem pode ser relevante para o software), então tente “visualizar” a empresa funcionando, como se você estivesse lá acompanhando o dia-a-dia;
-
-Seguindo essas dicas, você deve ser capaz de descrever o dia-a-dia da empresa selecionada. E para ajudar na organização do texto, indicamos uma abordagem em 3 etapas:
-
--   **Introdução**: comece com um parágrafo apresentando a empresa (nome, o que faz, tempo de existência, o dono, funcionários, etc);
--   **Situação-problema**: Aborde em detalhes como a empresa funciona, procurando seguir uma ordem lógica dos acontecimentos e organizando parágrafos diferentes para cada coisa diferente que for explicar (como faria em uma redação);
--   **Conclusão**: tenha um parágrafo de conclusão focando nos problemas que você notou dentro da situação problema analisada e aponte brevemente como um software poderia ajudar a resolvê-los.
+A Berto e Reis é uma barbearia de pequeno porte fundada em 2020 pelo barbeiro João Berto, localizada em um bairro residencial da cidade. Inicialmente, João atendia sozinho em um pequeno espaço improvisado, mas, com o tempo e a fidelização dos clientes, o negócio cresceu e atualmente conta com quatro profissionais no atendimento e uma clientela ampla e variada. Com isso, a demanda por cortes, barba e demais serviços aumentou significativamente, fazendo com que a organização da agenda se tornasse uma tarefa cada vez mais desafiadora.
+ Atualmente, os serviços da barbearia são agendados por meio de mensagens em redes sociais ou ligações para os barbeiros, o que torna o processo lento e desorganizado. Muitas vezes, a comunicação é feita utillizando o contato pessoal do trabalhador, exigindo que o profissional pare suas atividades e responda fora de hora, ou até mesmo misturando seus clientes com contatos pessoais. Além disso, é comum o agendamento ser esquecido, mal anotado ou sobreposto a outros compromissos, o que gera transtornos tanto para os clientes quanto para os profissionais. Outro problema é a dificuldade do barbeiro em gerir o controle da movimentação financeira e de clientes durante o mês, sem saber ao certo quais dias são mais movimentados ou lucrativos.
+ A partir da análise da situação atual, é possível identificar que a barbearia enfrenta desafios relacionados à organização dos agendamentos, falta de automatização, baixa eficiência na comunicação com o cliente e ausência do controle de dados financeiros. Nosso objetivo é criar uma forma de comunicação única e agilizada entre o cliente e o barbeiro, sem a necessidade da disponibilidade de ambos ao mesmo tempo. Além de automatizar os agendamentos, exibir horários disponíveis em tempo real e centralizar o controle da agenda de todos os profissionais. Ademais a isso, o sistema contribuirá com a gestão da berbearia, gerando relatórios para o controle financeiro.
 
 # 3. Descrição da proposta
 
-Após entender o problema, proponha uma solução que será útil nos aspectos de dificuldade encontrados. Assim, aqui você deverá **explicar de maneira resumida, e preferencialmente mais textual, como o software funcionará**. Pense nesse texto como uma **introdução ao seu cliente** do que você pretende fazer por ele, para que ele confirme se realmente está dentro do desejado e permita sua continuidade.
-
-**Alguns pontos importantes a se destacar são:**
-
--   **Qual o foco de ação do software** relacionado com os problemas levantados na análise da situação-problema. O que realmente o software vai fazer. Por exemplo, o foco de ação do Gmail é permitir o envio e recebimento de e-mails.
--   **Os níveis de usuário do sistema**. Somente o gestor tem acesso? E os funcionários? Talvez seja para ambos, ou para funcionários de cargos
-    diferentes, etc.
--   **O que poderá ser feito no software**.Apenas o principal, sem pensar em telas ou detalhes específicos, pois isso será feito em outro momento.
--   **Se houver mais de um nível de usuário**, ressaltar as diferenças entre eles na descrição da proposta.
-
-Tenha em mente que essa é uma etapa relativamente breve. Não é necessário um texto gigantesco, apenas dar uma noção do funcionamento do sistema. Mais adiante
-precisaremos ser bem detalhistas, todavia agora a intenção é apenas fazer algo que permita ao cliente nos dizer se estamos no caminho certo.
+O Cobarber é um sistema focado na agilidade de comunicação de cliente para profissional, utilizando-se de horários e serviços predefinidos pelos barbeiros, com foco em liberdade e independência de ambos os lados. Os trabalhadores do local (que também administrarão o sistema da sua barbearia) serão cadastrados e definirão serviços e horários disponíveis em cada dia da semana, fazendo assim com que os clientes que se cadastrarem possam escolher determinado tipo de serviço, horário e o barbeiro de sua preferência.
 
 # 4. Modelagem de Dados
 
 (*Nessa parte a equipe deve descrever a modelagem de dados que será implementada no sistema. O texto abaixo descreve o que essa etapa deve conter e pode ser apagado depois.*)
 
 Defina as entidades e relacionamentos que farão parte do sistema. Desenhe o diagrama de entidade-relacionamento (DER) e descreva as entidades e relacionamentos que farão parte do sistema.
-
 
 
 # 4. Regras de negócio
