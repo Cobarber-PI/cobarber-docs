@@ -11,7 +11,6 @@ Professor: [Marco André Mendes](github.com/marcoandre)
 Equipe:
 - [Henrique Dias Belboni Silva](https://github.com/Henrique0330)
 - [Marco Antonio Peruzzo](https://github.com/MarcoPeruzzocmd)
-- [João Vitor Guiotti](https://github.com/joaovnpt)
 - [Eduardo Gustavo Bomsenhor](https://github.com/goodsir6)
 
 Links do projeto:
