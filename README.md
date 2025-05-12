@@ -40,6 +40,9 @@ O Cobarber é um sistema focado na agilidade de comunicação de cliente para pr
 
 Defina as entidades e relacionamentos que farão parte do sistema. Desenhe o diagrama de entidade-relacionamento (DER) e descreva as entidades e relacionamentos que farão parte do sistema.
 
+![image](https://github.com/user-attachments/assets/fb952fae-3a44-464c-9918-6cddfcfdda01)
+
+
 
 # 4. Regras de negócio
 (*Nessa parte a equipe deve descrever as regras de negócio que serão implementadas no sistema. O texto abaixo descreve o que essa etapa deve conter e pode ser apagado depois.*)
