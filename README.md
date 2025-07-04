@@ -42,7 +42,7 @@ O Cobarber é um sistema focado na agilidade de comunicação de cliente para pr
 
 # 4. Regras de negócio
 
-**RN001 – Cadastro de Usuário:** O sistema deve permitir o cadastro de clientes e barbeiros com nome, e-mail, senha e número de celular.  
+**RN001 – Cadastro de Usuário:** O sistema deve permitir o cadastro de clientes e barbeiros com nome, e-mail, senha, número de celular, data de nascimento e CPF.  
 
 **RN002 – Níveis de Acesso:** O sistema deve diferenciar os acessos de cliente, barbeiro(administrador).
 
